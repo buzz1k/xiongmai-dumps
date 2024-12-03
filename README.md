@@ -19,3 +19,4 @@
 | 00000202 | Tested ||<a href="https://disk.yandex.ru/d/jkQxqfVxhw3SqA">NBD8016RA-ULK</a>
 | 00000202 | Tested ||<a href="https://disk.yandex.ru/d/xCDBPkzA5r4d1A">NBD8010S-KL-V2</a>
 | 00000203 | Tested ||<a href="https://disk.yandex.ru/d/nJN50tWdEGC9cA">NBD8008RA-GKL</a>
+| 00000233 | Tested ||<a href="https://disk.yandex.ru/d/bCO63xmovtsypg">NBD80S16S-KL</a>
